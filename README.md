@@ -8,7 +8,7 @@
 ## 🚀 Habilidades Técnicas
 
 Linguagens de Programação:
-- SQL | Java | Python | JavaScript | GML
+- SQL | Java | Python | JavaScript | GML | R
 
 Dados: 
 - MySQL | SQL Server | Power BI | Oracle Data Modeler
