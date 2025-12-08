@@ -32,12 +32,6 @@
   <img height="30px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />       
 </div><br>
 
-<div>  
-  <a href="https://github.com/Aram-Bohmann">
-    <!--<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=aram-bohmann&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>-->
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aram-bohmann&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
 ### 📧 Contatos
 <div style="display: inline_block">
   <a href="mailto:arambohmannleitedaluz@gmail.com">
