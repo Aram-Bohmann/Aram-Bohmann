@@ -49,15 +49,6 @@ Combino competências técnicas em análise de dados com habilidades únicas de 
 
 ---
 
-## 🎓 Destaques
-
-- 🏆 **Finalista FEBIC 2024** - Feira Brasileira de Iniciação Científica
-- 📜 **400+ horas** em cursos técnicos de capacitação
-- 💼 **Projetos:** Pipeline completo de dados (ETL/ELT), análise e visualização
-- 🎭 **Ator de improviso** - Grupo "Deslocados" (Storytelling com dados)
-
----
-
 ## 📫 Contatos
 
 <div>
