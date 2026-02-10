@@ -2,7 +2,7 @@
 
 ## 🎯 Sobre Mim
 
-Técnico em Ciência de Dados pelo CEDUP Timbó, apaixonado por transformar dados em insights acionáveis. 
+Técnico em Ciência de Dados pelo CEDUP Timbó, cursando ensino superior em Ciência de Dados pela Uninter, apaixonado por transformar dados em insights acionáveis. 
 
 Combino competências técnicas em análise de dados com habilidades únicas de storytelling desenvolvidas no teatro de improviso, permitindo traduzir análises complexas em comunicação clara e impactante.
 
