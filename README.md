@@ -2,13 +2,13 @@
 
 ## 🎯 Sobre Mim
 
-Técnico em Ciência de Dados pelo CEDUP Timbó, cursando ensino superior em Ciência de Dados pela Uninter, apaixonado por transformar dados em insights acionáveis. 
+Técnico em Ciência de Dados pelo CEDUP Timbó, cursando Tecnologia em Ciência de Dados pela Uninter, com experiência prática em qualidade, tratamento e governança de dados em ambiente ERP.
 
-Combino competências técnicas em análise de dados com habilidades únicas de storytelling desenvolvidas no teatro de improviso, permitindo traduzir análises complexas em comunicação clara e impactante.
+Traduzo análises técnicas em comunicação clara para diferentes públicos — competência também reforçada pela minha vivência em teatro de improviso.
 
-- 💻 **Foco:** Ciência de Dados & Desenvolvimento Full-Stack
-- 🧠 **Paixão:** Lógica de Programação & Resolução de Problemas
-- 🎭 **Diferencial:** Comunicação técnica + visão de negócios (Business Acumen)
+- 💻 **Foco:** Ciência de Dados, Engenharia de Dados & Análise de Dados
+- 🧩 **Paixão:** Lógica de Programação & Resolução de Problemas
+- 🎯 **Diferencial:** Comunicação técnica + visão de negócios (Business Acumen)
 - 📚 **Aprendizado contínuo:** 800+ horas em cursos de capacitações técnicas
 - 🌐 **Portfólio:** [aram-bohmann.github.io/Site-Portfolio](https://aram-bohmann.github.io/Site-Portfolio/)
 
