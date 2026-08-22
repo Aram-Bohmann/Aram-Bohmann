@@ -8,7 +8,7 @@ Combino competências técnicas em análise de dados com habilidades únicas de 
 
 - 💻 **Foco:** Ciência de Dados & Desenvolvimento Full-Stack
 - 🧠 **Paixão:** Lógica de Programação & Resolução de Problemas
-- 🎭 **Diferencial:** Comunicação técnica + Teatro de improviso
+- 🎭 **Diferencial:** Comunicação técnica + visão de negócios (Business Acumen)
 - 📚 **Aprendizado contínuo:** 800+ horas em cursos de capacitações técnicas
 - 🌐 **Portfólio:** [aram-bohmann.github.io/Site-Portfolio](https://aram-bohmann.github.io/Site-Portfolio/)
 
